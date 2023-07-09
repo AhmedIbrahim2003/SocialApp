@@ -1,0 +1,60 @@
+Date : 2023-07-03 12:23:06
+Directory : c:\Users\pc\Documents\learning flutter\social app\social_app\lib
+Total : 23 files,  1116 codes, 18 comments, 106 blanks, all 1240 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         23 |      1,116 |         18 |        106 |      1,240 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                           | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                              |         23 |      1,116 |         18 |        106 |      1,240 |
+| . (Files)                                                                                                      |          5 |        255 |          2 |         20 |        277 |
+| local                                                                                                          |          1 |         24 |          0 |          5 |         29 |
+| models                                                                                                         |          1 |         30 |         10 |          4 |         44 |
+| modules                                                                                                        |         16 |        807 |          6 |         77 |        890 |
+| modules\home                                                                                                   |         10 |        334 |          1 |         39 |        374 |
+| modules\home\cubit                                                                                             |          2 |         74 |          1 |         17 |         92 |
+| modules\home\screens                                                                                           |          8 |        260 |          0 |         22 |        282 |
+| modules\login                                                                                                  |          3 |        180 |          2 |         18 |        200 |
+| modules\login\cubit                                                                                            |          2 |         46 |          1 |         13 |         60 |
+| modules\login\screens                                                                                          |          1 |        134 |          1 |          5 |        140 |
+| modules\register                                                                                               |          3 |        293 |          3 |         20 |        316 |
+| modules\register\cubit                                                                                         |          2 |         89 |          2 |         16 |        107 |
+| modules\register\screens                                                                                       |          1 |        204 |          1 |          4 |        209 |
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                       | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\app_theme.dart                                | Dart     |         32 |          0 |          2 |         34 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\constants.dart                                | Dart     |          1 |          0 |          0 |          1 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\local\cache.dart                              | Dart     |         24 |          0 |          5 |         29 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\main.dart                                     | Dart     |         45 |          1 |          8 |         54 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\models\user_model.dart                        | Dart     |         30 |         10 |          4 |         44 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\cubit\cubit.dart                 | Dart     |         59 |          1 |          7 |         67 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\cubit\states.dart                | Dart     |         15 |          0 |         10 |         25 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\chat_screen.dart         | Dart     |          8 |          0 |          2 |         10 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\feed_screen.dart         | Dart     |         26 |          0 |          4 |         30 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\home_page.dart           | Dart     |         72 |          0 |          4 |         76 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\notification_screen.dart | Dart     |          8 |          0 |          2 |         10 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\post_screen.dart         | Dart     |         11 |          0 |          2 |         13 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\search_screen.dart       | Dart     |          8 |          0 |          2 |         10 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\settings_screen.dart     | Dart     |        119 |          0 |          4 |        123 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\users.dart               | Dart     |          8 |          0 |          2 |         10 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\login\cubit\cubit.dart                | Dart     |         34 |          1 |          5 |         40 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\login\cubit\states.dart               | Dart     |         12 |          0 |          8 |         20 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\login\screens\login_screen.dart       | Dart     |        134 |          1 |          5 |        140 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\register\cubit\cubit.dart             | Dart     |         74 |          1 |          7 |         82 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\register\cubit\states.dart            | Dart     |         15 |          1 |          9 |         25 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\register\screens\register_screen.dart | Dart     |        204 |          1 |          4 |        209 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\my_bloc_opserver.dart                         | Dart     |         23 |          1 |          5 |         29 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\widget.dart                                   | Dart     |        154 |          0 |          5 |        159 |
+| Total                                                                                                          |          |      1,116 |         18 |        106 |      1,240 |
++----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

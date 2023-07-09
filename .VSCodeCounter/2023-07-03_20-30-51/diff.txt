@@ -1,0 +1,34 @@
+Date : 2023-07-03 20:30:51
+Directory : c:\Users\pc\Documents\learning flutter\social app\social_app\lib
+Total : 5 files,  469 codes, -4 comments, 28 blanks, all 493 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |          5 |        469 |         -4 |         28 |        493 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                           | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                              |          5 |        469 |         -4 |         28 |        493 |
+| models                                                                                                         |          1 |         12 |         -9 |          0 |          3 |
+| modules                                                                                                        |          4 |        457 |          5 |         28 |        490 |
+| modules\home                                                                                                   |          4 |        457 |          5 |         28 |        490 |
+| modules\home\cubit                                                                                             |          2 |         85 |          0 |         14 |         99 |
+| modules\home\screens                                                                                           |          2 |        372 |          5 |         14 |        391 |
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                       | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\models\user_model.dart                        | Dart     |         12 |         -9 |          0 |          3 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\cubit\cubit.dart                 | Dart     |         76 |          0 |          4 |         80 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\cubit\states.dart                | Dart     |          9 |          0 |         10 |         19 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\edit_profile_screen.dart | Dart     |        359 |          5 |         12 |        376 |
+| c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\settings_screen.dart     | Dart     |         13 |          0 |          2 |         15 |
+| Total                                                                                                          |          |        469 |         -4 |         28 |        493 |
++----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

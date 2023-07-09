@@ -1,0 +1,25 @@
+"filename", "language", "Dart", "comment", "blank", "total"
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\app_theme.dart", "Dart", 32, 0, 2, 34
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\constants.dart", "Dart", 1, 0, 0, 1
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\local\cache.dart", "Dart", 24, 0, 5, 29
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\main.dart", "Dart", 45, 1, 8, 54
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\models\user_model.dart", "Dart", 30, 10, 4, 44
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\cubit\cubit.dart", "Dart", 59, 1, 7, 67
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\cubit\states.dart", "Dart", 15, 0, 10, 25
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\chat_screen.dart", "Dart", 8, 0, 2, 10
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\feed_screen.dart", "Dart", 26, 0, 4, 30
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\home_page.dart", "Dart", 72, 0, 4, 76
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\notification_screen.dart", "Dart", 8, 0, 2, 10
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\post_screen.dart", "Dart", 11, 0, 2, 13
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\search_screen.dart", "Dart", 8, 0, 2, 10
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\settings_screen.dart", "Dart", 119, 0, 4, 123
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\home\screens\users.dart", "Dart", 8, 0, 2, 10
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\login\cubit\cubit.dart", "Dart", 34, 1, 5, 40
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\login\cubit\states.dart", "Dart", 12, 0, 8, 20
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\login\screens\login_screen.dart", "Dart", 134, 1, 5, 140
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\register\cubit\cubit.dart", "Dart", 74, 1, 7, 82
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\register\cubit\states.dart", "Dart", 15, 1, 9, 25
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\modules\register\screens\register_screen.dart", "Dart", 204, 1, 4, 209
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\my_bloc_opserver.dart", "Dart", 23, 1, 5, 29
+"c:\Users\pc\Documents\learning flutter\social app\social_app\lib\widget.dart", "Dart", 154, 0, 5, 159
+"Total", "-", 1116, 18, 106, 1240
